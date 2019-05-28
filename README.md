@@ -1,1 +1,1 @@
-
+Please use Stock Market Code.rtf when looking at code. The formatting of the .vbs.rtf file changed during uploading. If anything looks really weird let me know and I'll try uploading it again. Thanks!
